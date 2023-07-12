@@ -2,7 +2,7 @@ package Assignment2;
 
 import java.util.Arrays;
 
-class Solution {
+class Q3Soln {
     public static int findLHS(int[] nums) {
         int i=0;
         //   int c=0;
