@@ -5,7 +5,7 @@ package Assignment16;
 
 import java.util.*;
 
-class GFG
+class Q8
 {
 
 
