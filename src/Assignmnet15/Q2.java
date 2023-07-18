@@ -2,7 +2,7 @@ package Assignmnet15;
 
 
 import java.io.*;
-class GFG {
+class Q2 {
 
 
     static void printPrevSmaller(int[] arr, int n)

@@ -3,7 +3,7 @@ package Assignmnet15;
 
 import java.util.*;
 
-class GfG {
+class Q3 {
 
     static class Stack {
 
